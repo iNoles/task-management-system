@@ -1,6 +1,6 @@
-# Taskify 📋
+# Task Management System
 
-A simple yet powerful task management app for personal and business use, built with Jetpack Compose and Room Database. Taskify allows users to efficiently create, manage, and organize their tasks.
+A modern task management application built with Jetpack Compose and Room, designed to help users create, organize, and track tasks efficiently with a clean Material 3 UI.
 
 ## 🚀 Features
 
@@ -23,8 +23,8 @@ A simple yet powerful task management app for personal and business use, built w
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/iNoles/Taskify
-cd Taskify
+git clone https://github.com/iNoles/task-management-system
+cd task-management-system
 ```
 
 2. Open in **Android Studio**.
